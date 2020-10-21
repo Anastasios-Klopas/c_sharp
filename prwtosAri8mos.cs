@@ -43,6 +43,7 @@ namespace prwtosAri8mos
         }
         static void Main(string[] args)
         {
+            // this is main
             Console.WriteLine("Dwste enan 8etiko ari8mo");
             int a = Convert.ToInt32(Console.ReadLine());
             while (a <= 0)
